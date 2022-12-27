@@ -1,0 +1,88 @@
+ul{
+	float: right;
+	font-size: 20px;
+	color: whitesmoke;
+list-style: none;
+background-color: rgba(0, 0, 0, 0.493);
+border-style: solid;
+border-color: transparent;
+border-radius:25px ;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-top: 35px;
+}
+.home{
+	float:left;
+	color: whitesmoke;
+	text-decoration: none;
+	padding-right:80px ;
+	
+}.menu{
+	float:left;
+	padding-right: 70px;
+	color: whitesmoke;
+	
+}.about{
+	float:left;
+	color: whitesmoke;
+	padding-right: 60px;
+}.franchise{
+	float:left;
+	padding-right: 40px;
+}.contacts{
+	float:left;
+	padding-right: 30px;
+}
+select{
+	list-style-type: none;
+	font-size:18px ;
+	font-family: cursive;
+	background-color: rgba(0, 0, 0, 0);
+	color: whitesmoke;
+	border: black;
+}
+.admin{
+	float: left;
+	color: snow;
+	padding-right: 20px;
+}
+#s{
+	color: black;
+}
+
+p{ text-shadow:2px 2px black;
+	font-style:normal;
+	font-size: 80px;
+	margin-bottom: 40px;
+	margin-top: 50px;
+	}
+.button{
+	float: left;
+	font-size: 25px;
+	border-style:groove;
+	border-color:silver;
+	color: snow;
+	background-color: rgba(3, 3, 61, 0.904) ;
+	box-shadow: 4px 4px snow;
+list-style-type: none;
+padding: 10px 20px 10px 20px;
+margin-left: 40px;
+border-radius: 7px;
+font-family: cursive;
+}
+.button:hover{
+	color: black;
+	background-color: snow;
+}
+h6{
+	font-size: 24px;
+}
+body{
+	font-size: 30px;
+	color: whitesmoke;
+	background-image: url(back.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: cursive;
+
+	}

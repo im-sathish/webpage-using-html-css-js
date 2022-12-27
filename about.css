@@ -1,0 +1,125 @@
+div.ul
+{ float:right;
+	font-size: 20px;
+	color: whitesmoke;
+	background-color: rgba(0, 0, 0, 0.493);
+	list-style: none;
+	border-radius: 25px;
+	border-style: solid;
+	border-color: transparent;
+	height: 50px;
+	padding-bottom: 20px;
+	
+}
+ul{
+	list-style: none;
+}
+.home{
+	float: left;
+	text-decoration: none;
+	color: whitesmoke;
+	padding-right: 90px;
+}
+.about{
+	float: left;
+	padding-right: 80px;
+}
+.menu{
+	float: left;
+	color: whitesmoke;
+	padding-right: 70px;
+}
+.franchise{
+	float: left;
+	padding-right: 60px;
+	background-color: rgba(0, 0, 0, 0);
+}
+select{
+	font-family: cursive;
+	list-style-type: none;
+	font-size:18px ;
+	background-color: rgba(0, 0, 0, 0);
+	color: whitesmoke;
+	border: black;
+}
+#s{
+	color: black;
+}
+.contacts{
+	float: left;
+	padding-right: 50px;
+	}
+.head{
+	text-align: center;
+}
+div.about{
+	float: left;
+	background-color: black;
+	color: whitesmoke;
+	margin-top: 400px;
+	margin-left: -8px;
+	margin-right: -10px;
+}
+h2{ font-size: 25px;
+	padding-left: 600px;
+	padding-right: 550px;
+}
+div.para{ font-size: 22px;
+	float: left;
+	color: whitesmoke;
+	background-color: black;
+	width: 50%;
+	padding-bottom: 30.5px;
+	margin-left: -8px;
+	padding-left: 10px;
+}
+div.img{
+	float: left;
+	color: whitesmoke;
+	background-color: black;
+	width: 50%;
+	margin-right: -8px;
+
+}
+div.para2{float:left;
+	color: whitesmoke;
+	background-color:black ;
+	margin-top: -10px;
+	margin-left: -8px;
+	margin-right: -10px;
+	padding-left: 10px;
+	padding-right: 6px;
+}
+p{font-style: normal;
+	font-size: 22px;
+}
+div.img2{
+	float: left;
+	color: whitesmoke;
+	background-color: black;
+	width: 40%;
+	margin-left: -8px;
+}
+div.para3{
+	float: left;
+	color: whitesmoke;
+	background-color: black;
+	width: 60%;
+	padding-left: 8px;
+	margin-right: -8px;
+	
+}
+div.icon{text-align: center;
+     font-size: 40px;
+	height: 80px;
+	padding-top: 55px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+body{
+background-image: url(about1.jpg);
+	background-repeat: no-repeat;
+	background-size:1450px 650px;
+	background-color: black;
+font-family: cursive;
+}

@@ -1,0 +1,84 @@
+#fpa{ color: black;
+     border-style: groove;
+     border-color: snow;
+     background-color: snow;
+    box-shadow: 30px 30px 30px 30px black;
+     border-color:snow;    
+    font-size: 25px;
+ margin-left: 450px;
+ margin-right: 450px;
+ padding: 25px 30px 30px 30px;
+}
+font{
+    padding-left: 30px;
+}
+#f{
+    padding-left: 130px;
+}
+#g{
+    padding-left: 8px;
+}
+#i
+{
+    padding-left: 130px;}
+
+#h{
+    padding-left: 151px;
+}
+select{
+    font-size: 22px;
+    font-family: cursive;
+}
+#op1{
+    width:38%;
+    margin-top: 5px;
+    float: right;
+}
+#op11{
+    width:36%;
+    margin-top: 10px;
+    height: 18px;
+
+    float: right;
+}
+#op2{
+    width: 38%;
+    margin-top: 5px;
+
+float: right;
+}
+#op3{
+    margin-top: 10px;
+    float:right;
+    width: 35%;
+    height: 20px;
+}
+#button{
+    
+    font-size:20px;
+        border-radius: 5px;
+        padding: 5px 10px 5px 10px;
+        border-color:silver;
+        box-shadow:2px 2px 2px 2px black;
+        text-decoration: none;
+        font-family: cursive;
+    
+    margin-left: 150px;    
+    
+}
+#icon{
+    color: snow;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 1cm;
+    margin-left: 20px;
+}
+
+.map{
+    margin-top: 10px;
+}
+body{
+    font-family:cursive;
+    background-color:rgba(3, 3, 61, 0.904);
+}

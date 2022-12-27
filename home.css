@@ -1,0 +1,87 @@
+ul
+{ float:right;
+	font-size: 20px;
+	color: whitesmoke;
+	background-color: rgba(0, 0, 0, 0.815);
+	list-style: none;
+	border-radius: 25px;
+	border-style: solid;
+	border-color: transparent;
+	padding-top: 20px;
+	padding-bottom: 20px;	
+}
+.home{
+	float: left;
+	padding-right: 90px;
+}
+.about{
+	float: left;
+	color: whitesmoke;
+	padding-right: 80px;
+}
+.menu{
+	float: left;
+	padding-right: 70px;
+}
+.franchise{
+	float: left;
+	padding-right: 60px;
+	background-color: rgba(0, 0, 0, 0);
+}
+select{
+	font-family: cursive;
+	list-style-type: none;
+	font-size:18px ;
+	background-color: rgba(0, 0, 0, 0);
+	color: whitesmoke;
+	border: rgba(0, 0, 0, 0.014);
+	letter-spacing: 0.1px;
+}
+#s{
+	color: black;
+}
+.contacts{
+	float: left;
+	padding-right: 55px;
+}
+div.head{
+	text-shadow: 2px 2px darkred;
+	float: left;
+	font-size: 40px;
+	color: whitesmoke;
+	margin-top: 170px;
+	margin-left:25px;
+}
+div.about{ 
+	font-size: 30px;
+	background-color: black;
+		color: whitesmoke;
+	margin-top:190px ;
+	padding-left: 40px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+h2{
+	text-align: center;
+}
+p{
+	font-size: 25px;
+	letter-spacing: 1px;
+	text-align:center ;
+}
+div.icon{text-align: center;
+     font-size: 40px;
+	background-color: black;
+	height: 80px;
+	padding-top: 55px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+body{
+background-image: url(home2.jpg);
+	background-repeat: no-repeat;
+	background-size:1350px 700px;
+	font-family: cursive;
+
+}

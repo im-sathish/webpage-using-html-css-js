@@ -1,0 +1,152 @@
+div.ul
+{ float:right;
+	font-size: 20px;
+	color: whitesmoke;
+	background-color: rgba(0, 0, 0, 0.699);
+	list-style: none;
+	border-radius: 25px;
+	border-style: solid;
+	border-color: transparent;
+padding-bottom: 20px;
+	
+}
+ul{
+	list-style: none;
+}
+.home{
+	float: left;
+	text-decoration: none;
+	color: whitesmoke;
+	padding-right: 90px;
+}
+.about{
+	float: left;
+	color: whitesmoke;
+	padding-right: 80px;
+}
+.menu{
+	float: left;
+	padding-right: 70px;
+}
+.franchise{
+	float: left;
+	padding-right: 60px;
+}
+select{
+	font-family: cursive;
+	list-style-type: none;
+	font-size:18px ;
+	background-color: rgba(0, 0, 0, 0);
+	color: whitesmoke;
+	border: rgba(0, 0, 0, 0);
+}
+#s{
+	color: black;
+}
+.contacts{
+	float: left;
+	padding-right: 50px;
+	}
+.head{
+	float: left;
+	text-align: center;
+	width: 100%;
+	font-size: 24px;
+	margin-top: 630px;
+	
+color: whitesmoke;
+	
+	border-style: transparant;
+	background-color: black;
+	background-size: cover;
+	
+}
+div.menu{
+	float: left;
+	font-size: 20px;
+	width: 45%;
+	list-style: none;
+color: whitesmoke;
+padding-left: 50px;
+}
+#cb{
+	color: indianred;
+	padding-left: 220px;
+
+}#mb{
+	color: indianred;
+	padding-left: 225px;
+
+}#fb{
+	color: indianred;
+	padding-left: 250px;
+
+}#pb{
+	color: indianred;
+	padding-left: 230px;
+
+}
+
+div.img{
+	float: left;
+	width: 45%;
+	border-style: solid;
+			background-size: cover;
+		background-color: black;
+		padding-top: 40px;
+}
+
+div.img2{
+	float: left;
+	width:50% ;
+	padding-top: 100px;
+	background-size: cover;
+	background-color: black;
+	border-style: solid;
+}
+div.menu2{
+	float:left;
+	width: 49%;
+	color: aliceblue;
+	padding-top:50px;
+	font-size: 20px;
+}
+#vm{ color:indianred ;
+	padding-left: 250px;
+}
+#nvm{
+	color: indianred;
+	padding-left: 215px;
+}
+#vs{
+	font-size: 20px;
+	color: indianred;
+	padding-left: 260px;
+}
+#cs{font-size: 20px;
+	padding-left: 225px;
+	color: indianred;
+}
+#ms{font-size: 20px;
+	padding-left: 235px;
+	color: indianred;
+}
+div.icon{
+	text-align: center;
+     font-size: 40px;
+     color: aliceblue;
+	height: 80px;
+	padding-top: 50px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+
+
+body{
+	background-image: url(menu3.jpg);
+	background-repeat: no-repeat;
+	background-size:1450px 700px ;
+	background-color: black;
+	width: 100%;
+	font-family: cursive;
+}
